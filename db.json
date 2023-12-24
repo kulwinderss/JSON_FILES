@@ -1,5 +1,20 @@
 {
  "products":[
+
+    {
+        "image": "https://m.media-amazon.com/images/I/71VpkuEkwVL._SX569_.jpg",
+        "name": "Jack & Jones Men's Cottonblend Regular Fit Hooded Neck Sweatshirt",
+        "price": 1399,
+        "rating":4,
+        "description":"Material composition:Cotton, Polyester,  Sleeve type:Long Sleeve, Material typeCotton Blend, Fit typeRegular, LengthStandard Length, Neck styleHooded Neck, Country of OriginBangladesh."
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/61QRgOgBx0L._SX679_.jpg",
+        "name": "OnePlus Nord CE 3 Lite 5G",
+        "price": 19999,
+        "rating":5,
+        "description":"Came1"
+      },
     
       {
         "image": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
