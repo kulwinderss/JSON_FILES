@@ -1,41 +1,41 @@
 {
  "products":[
       {
-        "image": "https://m.media-amazon.com/images/I/71VpkuEkwVL._SX569_.jpg",
-        "name": "Regular Fit Hooded Neck Sweatshirt",
-        "price": 1399,
-        "rating":4,
-        "description":"Jack & Jones Men's Cottonblend, Long Sleeve, Cotton Blend."
+        "image": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+        "name": "CHECK PRINT SHIRT",
+        "price": 2000,
+        "rating":2,
+        "description":"Crafted from high-quality fabric, the Check Print Shirt offers both comfort and durability. The smooth and breathable material ensures a comfortable fit throughout the day, while the attention to detail in the construction ensures long-lasting wear."
       },
       {
-        "image": "https://m.media-amazon.com/images/I/61QRgOgBx0L._SX679_.jpg",
-        "name": "OnePlus Nord CE 3 Lite 5G",
-        "price": 19999,
-        "rating":5,
-        "description":"Pastel Lime, 8GB RAM, 128GB Storage,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Operating System: Oxygen OS based on Android 13.1, Processor: Qualcomm Snapdragon 695 5G"
-      },
-      {
-        "image": "https://m.media-amazon.com/images/I/71PCOJLRAVL._SX569_.jpg",
-        "name": "Symbol Men Marvel Regular Fit T-Shirt",
-        "price": 399,
+        "image": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+        "name": "GLORIA HIGH LOGO SNEAKER",
+        "price": 3000,
         "rating":3,
-        "description":"Amazon Brand, 100% Cotton, Regular Fit, Short Sleeve, Standard Length, Great for layering or wearing alone, this T-shirt features a Marvel character logo, crewneck, short sleeves and an elongated curved hem as a style feature"
+        "description":"The Gloria High Logo Sneaker is a stylish and trendy footwear option that combines comfort and fashion effortlessly. These sneakers feature a high-top design, making them a standout choice for any casual or athleisure look."
       },
       {
-        "image": "https://m.media-amazon.com/images/I/81NEnjhWatL._SX569_.jpg",
-        "name": "Fastrack FS1 Pro Smartwatch",
-        "price": 2799,
+        "image": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+        "name": "CATE RIGID BAG",
+        "price": 4400,
         "rating":4,
-        "description":"1.96 Super AMOLED Arched Display with Highest Resolution, NitroFast Charging with 10 min charge to fuel up 1 day of battery, Health Monitoring with Auto Stress monitor, 24x7 Heart Rate, Sleep Tracker, Spo2 and Womens Health"
+        "description":"Designed for the modern woman, the Cate Rigid Bag features a sleek and structured silhouette that exudes confidence and refinement. The rigid exterior provides durability and ensures that the bag maintains its shape, while the smooth and luxurious finish adds a touch of glamour."
       },
-     {
-        "image": "https://m.media-amazon.com/images/I/51-VxJDI3nL._SX425_.jpg",
-        "name": "Speedex Stainless Steel 1000 ML Water Bottle",
-        "price": 378,
-        "rating":4,
-        "description":"lightweight yet rugged metal water bottle is crafted of 18.8, eco friendly, premium stainless steel. Completely shatterproof, it replaces those impossibly fragile glass bottles, for glass free zones and child attended events. In addition, its odor, smudge, and rust resistant."
+      {
+        "image": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+        "name": "GUESS CONNECT WATCH",
+        "price": 2700,
+        "rating":5,
+        "description":"Featuring a sleek and contemporary design, the Guess Connect Watch is crafted with premium materials, ensuring durability and a refined aesthetic. The watch face showcases a sophisticated display with easy-to-read dials, giving you quick access to essential information at a glance."
+
+      },
+      {
+        "image": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+        "name": "'70s RETRO GLAM KEFIAH",
+        "price": 4300,
+        "rating":3,
+        "description":"The 70s Retro Glam Kefiah features a vibrant and intricate pattern, reminiscent of the bohemian and psychedelic designs that defined the era. The rich colors and geometric motifs create a statement piece that adds a pop of personality to any outfit."
       }
-   
     ]
 }
   
